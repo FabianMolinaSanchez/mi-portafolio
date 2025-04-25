@@ -1,15 +1,30 @@
-## Descripción
-Este es mi portafolio creado en html, css y javascript 
+# ✨ Portafolio de Fabián Molina Sánchez
 
-## Autor -
+## 📖 Descripción
+
+Este es mi portafolio personal, desarrollado utilizando **HTML**, **CSS** y **JavaScript**. Aquí muestro algunos de mis trabajos, habilidades y proyectos destacados como desarrollador web.
+
+---
+
+## 👨‍💻 Autor
+
 **Fabián Molina Sánchez**
+
 - [LinkedIn](https://www.linkedin.com/in/fabian-molina-57b39834a)
-- [Portfolio web](https://fabianmolinasanchez.com/)
+- [Portfolio Web](https://fabianmolinasanchez.com/)
 
-## Ver ejemplo en vivo
--[ENLACEGITHUBPAGES](ENLACEGITHUBPAGES)
+---
 
+## 🌐 Ver ejemplo en vivo
 
-## Contratación
-Si quieres contratarme puedes escribirme a fabian.a.molina.sanchez@gmail.com para consultas.
+- [Ver en GitHub Pages](ENLACEGITHUBPAGES)
+
+---
+
+## 💼 Contratación
+
+¿Te interesa trabajar conmigo o tienes alguna propuesta?  
+Puedes escribirme a: **fabian.a.molina.sanchez@gmail.com**
+
+---
 
